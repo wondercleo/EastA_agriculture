@@ -1,0 +1,47 @@
+url = "https://microdata.worldbank.org//api/downloads/KEN_2021_RTFP_v02_M/files?type=data"
+
+KENYA AGRICULTURAL MARKET INTELLIGENCE DASHBOARD
+
+1. Problem Statement
+
+Agricultural commodity prices in Kenya vary across markets and over time. However, farmers, traders and other agricultural stakeholders may lack easy access to consolidated market price information. This makes it difficult to compare prices, monitor changes and identify market trends. This project seeks to address this challenge by developing an interactive dashboard for analysing agricultural food price estimates across Kenyan markets.
+
+2. Main Objective
+
+To develop an interactive dashboard for monitoring and analysing agricultural commodity prices across available Kenyan markets.
+
+3. Specific Objectives
+
+Compare selected agricultural commodity prices across markets.
+
+Monitor monthly commodity price changes over time.
+
+Identify price trends and regional market differences.
+
+Analyse variations in food prices across different markets.
+
+4. Data Source
+
+The project will use the World Bank Monthly Food Price Estimates by Product and Market dataset. It provides monthly modelled food price estimates for different products and markets in Kenya.
+
+Dataset: World Bank – Monthly Food Price Estimates
+
+Dataset information: World Bank Microdata Catalogue
+
+5. Methodology and Technologies
+
+Python: Data extraction and processing.
+
+Pandas: Data cleaning and analysis.
+
+PostgreSQL: Storage and management of historical price records.
+
+Streamlit and Plotly: Interactive dashboard and visualisations.
+
+6. Expected Output
+
+An interactive dashboard displaying commodity price comparisons across markets, monthly price movements and regional price trends. The system will support periodic dataset updates to maintain relevant market information.
+
+7. Dashboard Access
+
+The completed dashboard will be deployed online, and a public link shared
